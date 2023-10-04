@@ -38,7 +38,7 @@ const ContactPage = () => {
                     <div className="col-8 form-group mx-auto">
                         <input type="text" className="form-control" placeholder="subject" name="subject" style={{width:'100%'}}/>
                     </div>
-                    <div className="col-8 form-group mx-auto" style={{width: '50px', height: '150px'}}>
+                    <div className="col-8 form-group mx-auto" style={{height: '150px'}}>
                         <textarea type="textarea" id="" className="form-control" required placeholder="Leave a message" name="message" style={{width:'100%',overflow:'auto', height:'60%', paddingBottom:'1em'}}/>
                     </div>
                     <div className="col-8 form-group mx-auto" style={{marginTop:'-4em'}}>
