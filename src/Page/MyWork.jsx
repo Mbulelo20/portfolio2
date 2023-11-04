@@ -9,8 +9,8 @@ const MyWork = () => {
     const data = [
         {
             name: 'TrailerPark',
-            description: 'Quickly find the latest info, release dates and more on trending movies by easily searching.',
-            gitLink: 'https://github.com/Mbulelo20/Movie-Gallery.git',
+            description: 'Quickly watch the best trailers or find find details about your favorite and anticipated movies.',
+            gitLink: 'https://github.com/Mbulelo20/TrailerPark.git',
             link: 'https://mbulelo.pythonanywhere.com/',
             image: Film
         },
