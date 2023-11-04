@@ -8,10 +8,10 @@ import Weather from '../Files/instareact.png';
 const MyWork = () => {
     const data = [
         {
-            name: 'Movies Gallery',
+            name: 'TrailerPark',
             description: 'Quickly find the latest info, release dates and more on trending movies by easily searching.',
             gitLink: 'https://github.com/Mbulelo20/Movie-Gallery.git',
-            link: 'https://moviesgalleri.netlify.app/',
+            link: 'https://mbulelo.pythonanywhere.com/',
             image: Film
         },
         {
