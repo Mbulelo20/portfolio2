@@ -9,9 +9,9 @@ const MyWork = () => {
     const data = [
         {
             name: 'TrailerPark',
-            description: 'Quickly watch the best trailers or find find details about your favorite and anticipated movies.',
+            description: 'TrailerPark is a dynamic web application developed using Django and Python. It seamlessly integrates with The Movie Database (TMDb) API to fetch and showcase an extensive collection of movies. Users can explore detailed movie information, including trailers, cast, director, and a comprehensive overview, creating an immersive experience for movie enthusiasts.',
             gitLink: 'https://github.com/Mbulelo20/TrailerPark.git',
-            link: 'https://mbulelo.pythonanywhere.com/',
+            link: 'https://trailerpark.pythonanywhere.com/',
             image: Film
         },
         {
