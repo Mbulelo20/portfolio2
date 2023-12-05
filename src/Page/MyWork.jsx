@@ -9,7 +9,7 @@ const MyWork = () => {
     const data = [
         {
             name: 'TrailerPark',
-            description: 'TrailerPark is a web application built in Django and Python. Using the Movie Database (TMDb) API, it fetches and showcases an extensive collection of detailed movie information, including trailers, cast, director, and a comprehensive overview.',
+            description: 'TrailerPark is a web application built in Django and Python. It uses the TMDb API to fetch and showcase an extensive collection of detailed movie information, including trailers, cast, director, and a comprehensive overview.',
             gitLink: 'https://github.com/Mbulelo20/TrailerPark.git',
             link: 'https://trailerpark.pythonanywhere.com/',
             image: Film
@@ -17,7 +17,7 @@ const MyWork = () => {
         {
             name: 'MyPhotos Gallery',
             description: 'Register and login and save your favorite photos',
-            gitLink: 'https://github.com/Mbulelo20/memoryskeeper.git',to
+            gitLink: 'https://github.com/Mbulelo20/memoryskeeper.git',
             link: 'https://mbulelophotos.herokuapp.com/',
             image: Gallery
         },
