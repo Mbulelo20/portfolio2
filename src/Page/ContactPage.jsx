@@ -14,7 +14,7 @@ const ContactPage = () => {
 
     const sendEmail = (e) => {
         e.preventDefault();
-        emailjs.sendForm('service_0pj11v2', 'template_f90yrci', e.target, 'user_gliSFWQT1Y7S20Cz3Dug6')
+        emailjs.sendForm('service_9xfzs7p', 'template_f90yrci', e.target, 'user_gliSFWQT1Y7S20Cz3Dug6')
             .then((result) => {
             console.log(result.text);
             alert('Thanks for your message')
